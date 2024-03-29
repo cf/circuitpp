@@ -1,0 +1,20 @@
+# ninja log v5
+1	19	0	/Users/carter/circpp/circuitpp/test/build/CMakeFiles/cmake.verify_globs	c799fdf1637c3e65
+23	202	1711679296807976727	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/cored.cpp.o	f11e8e33bda0abf1
+21	283	1711679296890251133	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_dispatch.cpp.o	375da9fa0cc33ce8
+20	311	1711679296918209415	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3.cpp.o	61285ea9dee8b878
+26	558	1711679297163306982	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o	c1cbf0f0d4ad7bc5
+23	629	1711679297234679146	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/poseidon_goldilocks.cpp.o	dc7e05dc6e37d035
+23	663	1711679297268782059	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/greeter.cpp.o	2acc7ab04e7f7154
+20	667	1711679297273120414	CMakeFiles/CircuitPPTests.dir/source/greeter.cpp.o	9218fd8cdf9b7b5b
+23	702	1711679297310386081	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_portable.cpp.o	71829e1e4bb791dd
+24	973	1711679297577719555	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o	6345b659c8e3f5b0
+973	1015	1711679297626135000	_deps/fmt-build/libfmtd.a	bfac976852f78b52
+1015	1047	1711679297658342000	_deps/circuitpp-build/libCircuitPP.a	992896cc27293224
+20	1518	1711679298118232754	CMakeFiles/CircuitPPTests.dir/source/main.cpp.o	6f2bbafb1e2d55df
+1518	1796	1711679298407205710	CircuitPPTests	1d1c361cc458c042
+1518	1796	1711679298407205710	CircuitPPTests_tests-b858cb2.cmake	1d1c361cc458c042
+1518	1796	1711679298407205710	/Users/carter/circpp/circuitpp/test/build/CircuitPPTests_tests-b858cb2.cmake	1d1c361cc458c042
+3	12	0	/Users/carter/circpp/circuitpp/test/build/CMakeFiles/cmake.verify_globs	c799fdf1637c3e65
+2	11	0	/Users/carter/circpp/circuitpp/test/build/CMakeFiles/cmake.verify_globs	c799fdf1637c3e65
+2	12	0	/Users/carter/circpp/circuitpp/test/build/CMakeFiles/cmake.verify_globs	c799fdf1637c3e65

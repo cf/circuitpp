@@ -1,0 +1,21 @@
+# ninja log v5
+0	9	1710420235190402211	circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-mkdir	745b19f0c7f2f7c3
+0	9	1710420235190402211	/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-mkdir	745b19f0c7f2f7c3
+18	27	1710420235207980851	circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-update	dad88cb132f11fd8
+36	45	1710420235225934031	circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-configure	933b9660282240aa
+9	18	1710420235199529467	/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-download	f8bd786b9dd53ef6
+70	82	1710420235263528552	/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-subbuild/CMakeFiles/circuitpp-populate-complete	8f8a34b4cd6bd055
+27	36	1710420235217326815	/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-patch	5aa957ded38855b6
+9	18	1710420235199529467	circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-download	f8bd786b9dd53ef6
+18	27	1710420235207980851	/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-update	dad88cb132f11fd8
+53	62	1710420235242809382	circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-install	bb3c636d0eb98f91
+27	36	1710420235217326815	circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-patch	5aa957ded38855b6
+36	45	1710420235225934031	/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-configure	933b9660282240aa
+45	53	1710420235234430040	circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-build	82289c3f62d480d1
+70	82	1710420235263528552	CMakeFiles/circuitpp-populate-complete	8f8a34b4cd6bd055
+70	82	1710420235263528552	circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-done	8f8a34b4cd6bd055
+45	53	1710420235234430040	/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-build	82289c3f62d480d1
+70	82	1710420235263528552	/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-done	8f8a34b4cd6bd055
+53	62	1710420235242809382	/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-install	bb3c636d0eb98f91
+62	70	1710420235251511848	circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-test	a0a73abc3811d8f7
+62	70	1710420235251511848	/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-test	a0a73abc3811d8f7

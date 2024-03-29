@@ -1,0 +1,125 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"cxxopts_install_logic"
+		],
+		"files" : 
+		[
+			"build/_deps/cxxopts-src/cmake/cxxopts.cmake",
+			"build/_deps/cxxopts-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 70,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 117,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 120,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 124,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 125,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 153,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/cxxopts",
+			"paths" : 
+			[
+				"build/_deps/cxxopts-build/cxxopts-config.cmake",
+				"build/_deps/cxxopts-build/cxxopts-config-version.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/cxxopts",
+			"exportName" : "cxxopts-targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "cxxopts::@6b9fd07c569cf1ef14e0",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/cxxopts-build/CMakeFiles/Export/acbba7f1ac03b8b727e938a6e70d14ad/cxxopts-targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "cxxopts::@6b9fd07c569cf1ef14e0",
+				"index" : 0
+			},
+			"destination" : "lib",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"build/_deps/cxxopts-src/include/cxxopts.hpp"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"build/_deps/cxxopts-build/cxxopts.pc"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/cxxopts-build",
+		"source" : "build/_deps/cxxopts-src"
+	}
+}

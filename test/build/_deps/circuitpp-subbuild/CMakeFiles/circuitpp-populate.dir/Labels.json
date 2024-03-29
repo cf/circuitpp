@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-subbuild/CMakeFiles/circuitpp-populate"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-subbuild/CMakeFiles/circuitpp-populate.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-subbuild/CMakeFiles/circuitpp-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-build.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-download.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-install.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-test.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-subbuild/circuitpp-populate-prefix/src/circuitpp-populate-stamp/circuitpp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"circuitpp-populate"
+		],
+		"name" : "circuitpp-populate"
+	}
+}

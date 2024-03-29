@@ -1,0 +1,14 @@
+# Target labels
+ cxxopts-populate
+# Source files and their labels
+/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate
+/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate.rule
+/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate-complete.rule
+/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-build.rule
+/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-configure.rule
+/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-download.rule
+/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-install.rule
+/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-mkdir.rule
+/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-patch.rule
+/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-test.rule
+/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-update.rule

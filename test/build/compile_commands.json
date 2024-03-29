@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/Users/carter/circpp/circuitpp/test/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-build/PackageProjectInclude -isystem /Users/carter/circpp/circuitpp/test/build/_deps/doctest-src -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wpedantic -Wextra -Werror -o CMakeFiles/CircuitPPTests.dir/source/greeter.cpp.o -c /Users/carter/circpp/circuitpp/test/source/greeter.cpp",
+  "file": "/Users/carter/circpp/circuitpp/test/source/greeter.cpp",
+  "output": "CMakeFiles/CircuitPPTests.dir/source/greeter.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/test/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-build/PackageProjectInclude -isystem /Users/carter/circpp/circuitpp/test/build/_deps/doctest-src -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wpedantic -Wextra -Werror -o CMakeFiles/CircuitPPTests.dir/source/main.cpp.o -c /Users/carter/circpp/circuitpp/test/source/main.cpp",
+  "file": "/Users/carter/circpp/circuitpp/test/source/main.cpp",
+  "output": "CMakeFiles/CircuitPPTests.dir/source/main.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/test/build",
+  "command": "/usr/bin/clang++ -DDOCTEST_CONFIG_IMPLEMENT_WITH_MAIN -isystem /Users/carter/circpp/circuitpp/test/build/_deps/doctest-src -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/doctest-build/CMakeFiles/doctest_with_main.dir/doctest/parts/doctest.cpp.o -c /Users/carter/circpp/circuitpp/test/build/_deps/doctest-src/doctest/parts/doctest.cpp",
+  "file": "/Users/carter/circpp/circuitpp/test/build/_deps/doctest-src/doctest/parts/doctest.cpp",
+  "output": "_deps/doctest-build/CMakeFiles/doctest_with_main.dir/doctest/parts/doctest.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/test/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wpedantic -Wextra -Werror -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3.cpp.o -c /Users/carter/circpp/circuitpp/source/blake3/blake3.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/blake3/blake3.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/test/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wpedantic -Wextra -Werror -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_dispatch.cpp.o -c /Users/carter/circpp/circuitpp/source/blake3/blake3_dispatch.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/blake3/blake3_dispatch.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_dispatch.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/test/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wpedantic -Wextra -Werror -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_portable.cpp.o -c /Users/carter/circpp/circuitpp/source/blake3/blake3_portable.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/blake3/blake3_portable.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_portable.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/test/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wpedantic -Wextra -Werror -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/cored.cpp.o -c /Users/carter/circpp/circuitpp/source/circuitpp/cored.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/circuitpp/cored.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/cored.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/test/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wpedantic -Wextra -Werror -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/greeter.cpp.o -c /Users/carter/circpp/circuitpp/source/greeter.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/greeter.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/greeter.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/test/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/test/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wall -Wpedantic -Wextra -Werror -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/poseidon_goldilocks.cpp.o -c /Users/carter/circpp/circuitpp/source/poseidon_goldilocks.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/poseidon_goldilocks.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/poseidon_goldilocks.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/test/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o -c /Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/src/format.cc",
+  "file": "/Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/src/format.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/test/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o -c /Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/src/os.cc",
+  "file": "/Users/carter/circpp/circuitpp/test/build/_deps/fmt-src/src/os.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o"
+}
+]

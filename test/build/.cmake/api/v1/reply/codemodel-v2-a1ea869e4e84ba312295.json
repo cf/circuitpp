@@ -1,0 +1,294 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "_deps/doctest-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.doctest-build-Debug-0078a94366d031358198.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "build/_deps/doctest-src",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "_deps/format.cmake-build",
+					"jsonFile" : "directory-_deps.format.cmake-build-Debug-20dbcb0524722406788a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "build/_deps/format.cmake-src",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						8,
+						9,
+						10,
+						12
+					]
+				},
+				{
+					"build" : "_deps/circuitpp-build",
+					"childIndexes" : 
+					[
+						4,
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.circuitpp-build-Debug-b097e03db061aab7678b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "/Users/carter/circpp/circuitpp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "_deps/packageproject.cmake-build",
+					"jsonFile" : "directory-_deps.packageproject.cmake-build-Debug-b1b43ded83a263a8be6f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "build/_deps/packageproject.cmake-src"
+				},
+				{
+					"build" : "_deps/fmt-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.fmt-build-Debug-926a45799e4a8867c4ac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "build/_deps/fmt-src",
+					"targetIndexes" : 
+					[
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						2
+					],
+					"name" : "CircuitPPTests",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						8,
+						9,
+						10,
+						12
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "doctest",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						3,
+						4
+					],
+					"name" : "CircuitPP",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "FMT",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "CircuitPP::@f370320633a60e554616",
+					"jsonFile" : "target-CircuitPP-Debug-60ae9ae5b3c0103deac1.json",
+					"name" : "CircuitPP",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CircuitPPTests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CircuitPPTests-Debug-29e1241206114fedb7e3.json",
+					"name" : "CircuitPPTests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check-clang-format::@a7f3a6eb0bd8f9ccc3e6",
+					"jsonFile" : "target-check-clang-format-Debug-59ab3d5a5d3464fef53f.json",
+					"name" : "check-clang-format",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check-cmake-format::@a7f3a6eb0bd8f9ccc3e6",
+					"jsonFile" : "target-check-cmake-format-Debug-63832d1d9c61a5ecda88.json",
+					"name" : "check-cmake-format",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check-format::@a7f3a6eb0bd8f9ccc3e6",
+					"jsonFile" : "target-check-format-Debug-a3e0955f245b924d19d2.json",
+					"name" : "check-format",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "clang-format::@a7f3a6eb0bd8f9ccc3e6",
+					"jsonFile" : "target-clang-format-Debug-dec9a2426b663c46ca17.json",
+					"name" : "clang-format",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "cmake-format::@a7f3a6eb0bd8f9ccc3e6",
+					"jsonFile" : "target-cmake-format-Debug-bc75ab24eca51ad1c6cd.json",
+					"name" : "cmake-format",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "doctest_with_main::@de8c2d1415f8a28c2e63",
+					"jsonFile" : "target-doctest_with_main-Debug-712fba9eb64bf13a8682.json",
+					"name" : "doctest_with_main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fix-clang-format::@a7f3a6eb0bd8f9ccc3e6",
+					"jsonFile" : "target-fix-clang-format-Debug-5099ab3aef7f72e66194.json",
+					"name" : "fix-clang-format",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fix-cmake-format::@a7f3a6eb0bd8f9ccc3e6",
+					"jsonFile" : "target-fix-cmake-format-Debug-ea1b85c98777afc8a7b9.json",
+					"name" : "fix-cmake-format",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fix-format::@a7f3a6eb0bd8f9ccc3e6",
+					"jsonFile" : "target-fix-format-Debug-7811f73bd3ac0571cc87.json",
+					"name" : "fix-format",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "fmt::@976f4f0bee90b99ecdb6",
+					"jsonFile" : "target-fmt-Debug-05f158e7e1a582f99f2b.json",
+					"name" : "fmt",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "format::@a7f3a6eb0bd8f9ccc3e6",
+					"jsonFile" : "target-format-Debug-994ad3df8057dc81bd39.json",
+					"name" : "format",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/carter/circpp/circuitpp/test/build",
+		"source" : "/Users/carter/circpp/circuitpp/test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

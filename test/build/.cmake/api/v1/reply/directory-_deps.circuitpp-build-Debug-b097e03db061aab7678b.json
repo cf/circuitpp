@@ -1,0 +1,132 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"packageProject"
+		],
+		"files" : 
+		[
+			"build/_deps/packageproject.cmake-src/CMakeLists.txt",
+			"/Users/carter/circpp/circuitpp/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 68,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 96,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 121,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 150,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 157,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 164,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "CircuitPP_Development",
+			"destination" : "include/CircuitPP-1.0",
+			"paths" : 
+			[
+				{
+					"from" : "build/_deps/circuitpp-build/PackageProjectInclude",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "CircuitPP_Development",
+			"destination" : "lib/CircuitPP-1.0",
+			"paths" : 
+			[
+				"_deps/circuitpp-build/libCircuitPP.a"
+			],
+			"targetId" : "CircuitPP::@f370320633a60e554616",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "CircuitPP_Development",
+			"destination" : "lib/cmake/CircuitPP-1.0",
+			"exportName" : "CircuitPPTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "CircuitPP::@f370320633a60e554616",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/circuitpp-build/CMakeFiles/Export/f637d1fb64d6b5715bb998536cffe331/CircuitPPTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "CircuitPP_Development",
+			"destination" : "lib/cmake/CircuitPP-1.0",
+			"paths" : 
+			[
+				"build/_deps/circuitpp-build/CircuitPPConfigVersion.cmake",
+				"build/_deps/circuitpp-build/CircuitPPConfig.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "CircuitPP_Development",
+			"destination" : "include/CircuitPP-1.0",
+			"paths" : 
+			[
+				{
+					"from" : "/Users/carter/circpp/circuitpp/include",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/circuitpp-build",
+		"source" : "/Users/carter/circpp/circuitpp"
+	}
+}

@@ -1,0 +1,26 @@
+# ninja log v5
+13	267	1711687199450757293	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/eval.cpp.o	dc2b7334cb67b0dd
+1872	1924	1711688889030533255	CircuitPP	b6ec9a7587ee4e68
+248	300	1711688057806620000	_deps/circuitpp-build/libCircuitPP.a	759e37b52ff2381b
+696	736	1710420359338400000	_deps/fmt-build/libfmtd.a	bfac976852f78b52
+16	1872	1711688888972389980	CMakeFiles/CircuitPPStandalone.dir/source/main.cpp.o	330e18b262d1dba9
+10	435	1710420359033665607	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_portable.cpp.o	eed45c8d003129e7
+20	773	1711678989530580041	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/poseidon_goldilocks.cpp.o	990afe9d03580e2d
+32	828	1711687603388130977	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/core_base.cpp.o	da87762a79b0487c
+13	267	1711687199450753752	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/finalized.cpp.o	ee711ca65ae6c7cf
+10	80	1710420358679576942	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3.cpp.o	cbb134d3642ca803
+27	785	1711687563666544926	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/greeter.cpp.o	a384fbd0f4b20b4
+11	335	1710420358930827799	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o	a23bd5c32948b36b
+11	696	1710420359292342144	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o	f120179f5701608d
+10	56	1710420358655521369	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_dispatch.cpp.o	72063af034cb8597
+12	645	1711688928766359610	build.ninja	406934eeb2fd235f
+19	1165	1711686671004850202	CMakeFiles/CircuitPPStandalone.dir/source/example_bit_sum.cpp.o	b89512f8d100c46a
+19	1141	1711686670979742328	CMakeFiles/CircuitPPStandalone.dir/source/example_mul.cpp.o	f69f75ae3e42e168
+12	167	1711688386852753804	CMakeFiles/CircuitPPStandalone.dir/source/examples.cpp.o	379ec4ffffa6ca01
+13	234	1711623101378699173	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/cored.cpp.o	e083743daea67e8c
+3	12	1711688928150475000	/Users/carter/circpp/circuitpp/standalone/build/CMakeFiles/cmake.verify_globs	72af8ed691a0019
+18	248	1711688057747661616	_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/builder.cpp.o	6524a8caad39fcc6
+12	639	1711688928766359610	build.ninja	406934eeb2fd235f
+2	9	0	/Users/carter/circpp/circuitpp/standalone/build/CMakeFiles/cmake.verify_globs	72af8ed691a0019
+14	1812	1711688930580561100	CMakeFiles/CircuitPPStandalone.dir/source/main.cpp.o	330e18b262d1dba9
+1812	1858	1711688930633525882	CircuitPP	e42de97144c70c86

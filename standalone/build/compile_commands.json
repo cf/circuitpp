@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/standalone/build/_deps/cxxopts-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/CircuitPPStandalone.dir/source/main.cpp.o -c /Users/carter/circpp/circuitpp/standalone/source/main.cpp",
+  "file": "/Users/carter/circpp/circuitpp/standalone/source/main.cpp",
+  "output": "CMakeFiles/CircuitPPStandalone.dir/source/main.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3.cpp.o -c /Users/carter/circpp/circuitpp/source/blake3/blake3.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/blake3/blake3.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_dispatch.cpp.o -c /Users/carter/circpp/circuitpp/source/blake3/blake3_dispatch.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/blake3/blake3_dispatch.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_dispatch.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_portable.cpp.o -c /Users/carter/circpp/circuitpp/source/blake3/blake3_portable.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/blake3/blake3_portable.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/blake3/blake3_portable.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/builder.cpp.o -c /Users/carter/circpp/circuitpp/source/circuitpp/builder.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/circuitpp/builder.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/builder.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/core_base.cpp.o -c /Users/carter/circpp/circuitpp/source/circuitpp/core_base.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/circuitpp/core_base.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/core_base.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/cored.cpp.o -c /Users/carter/circpp/circuitpp/source/circuitpp/cored.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/circuitpp/cored.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/cored.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/eval.cpp.o -c /Users/carter/circpp/circuitpp/source/circuitpp/eval.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/circuitpp/eval.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/eval.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/finalized.cpp.o -c /Users/carter/circpp/circuitpp/source/circuitpp/finalized.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/circuitpp/finalized.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/circuitpp/finalized.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/greeter.cpp.o -c /Users/carter/circpp/circuitpp/source/greeter.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/greeter.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/greeter.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/include -I/Users/carter/circpp/circuitpp/standalone/build/_deps/circuitpp-build/PackageProjectInclude -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/poseidon_goldilocks.cpp.o -c /Users/carter/circpp/circuitpp/source/poseidon_goldilocks.cpp",
+  "file": "/Users/carter/circpp/circuitpp/source/poseidon_goldilocks.cpp",
+  "output": "_deps/circuitpp-build/CMakeFiles/CircuitPP.dir/source/poseidon_goldilocks.cpp.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o -c /Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/src/format.cc",
+  "file": "/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/src/format.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o"
+},
+{
+  "directory": "/Users/carter/circpp/circuitpp/standalone/build",
+  "command": "/usr/bin/clang++ -I/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o _deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o -c /Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/src/os.cc",
+  "file": "/Users/carter/circpp/circuitpp/standalone/build/_deps/fmt-src/src/os.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o"
+}
+]

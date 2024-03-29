@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/format.cmake-subbuild/CMakeFiles/format.cmake-populate"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/format.cmake-subbuild/CMakeFiles/format.cmake-populate.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/format.cmake-subbuild/CMakeFiles/format.cmake-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-build.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-download.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-install.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-test.rule"
+		},
+		{
+			"file" : "/Users/carter/circpp/circuitpp/test/build/_deps/format.cmake-subbuild/format.cmake-populate-prefix/src/format.cmake-populate-stamp/format.cmake-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"format.cmake-populate"
+		],
+		"name" : "format.cmake-populate"
+	}
+}
